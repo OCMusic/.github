@@ -1,9 +1,9 @@
 <div align="center">
     <h3>
-    <img src="../assets/icon.svg" width="100px" alt="Logo"/><br/>
+    <img src="./../assets/icon.svg" width="100px" alt="Logo"/><br/>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="../assets/title-dark.svg">
-        <img alt="Obby Creator Music Title" src="../assets/title-light.svg" height=45>
+        <source media="(prefers-color-scheme: dark)" srcset="./../assets/title-dark.svg">
+        <img alt="Obby Creator Music Title" src="./../assets/title-light.svg" height=45>
     </picture><br/>
     <h6 align="center">
       <a href="https://discord.gg/K4gFUPTA7B">Discord</a>
