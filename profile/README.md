@@ -4,7 +4,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCMusic/.github/main/assets/title-dark.svg">
         <img alt="Obby Creator Music Title" src="https://raw.githubusercontent.com/OCMusic/.github/main/assets/title-light.svg" height=45>
-    </picture><br/>
+    </picture>
     <h6 align="center">
       <a href="https://discord.gg/K4gFUPTA7B">Discord</a>
       &nbsp;·&nbsp;
