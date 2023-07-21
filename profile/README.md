@@ -21,6 +21,6 @@
 **OCMusic Audio Browser**
 A custom audio browser for browsing and listen to audios uploaded in our now terminated, Roblox group. The browser still works, which you can visit it below:
  <a href="https://www.roblox.com/games/9937132110/OCM-Song-Browser">
-    <img width="681" alt="Group 5" src="https://github.com/OCMusic/.github/assets/107028394/29590cab-fe83-4968-bf09-de5f85544ed2" width="64px" alt="Visit Now (Browser)"/> <a/>
+    <img alt="Group 5" src="https://github.com/OCMusic/.github/assets/107028394/29590cab-fe83-4968-bf09-de5f85544ed2" width="64px" alt="Visit Now (Browser)"/> <a/>
 
 &nbsp;
