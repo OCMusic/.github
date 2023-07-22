@@ -28,4 +28,6 @@ A custom audio browser for browsing and listen to audios uploaded in our now ter
     <a/>
     &nbsp;
     <img alt="Followers" src="https://img.shields.io/github/followers/OCMusic?style=for-the-badge&labelColor=313244&color=89b4fa"/>
+    &nbsp;
+    <img alt="Visitors" src="https://komarev.com/ghpvc/?username=OCMusic&style=for-the-badge&labelColor=313244&color=a6e3a1>
 </div>
