@@ -4,7 +4,7 @@
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OCMusic/.github/main/assets/title-dark.svg">
         <img alt="Obby Creator Music Title" src="https://raw.githubusercontent.com/OCMusic/.github/main/assets/title-light.svg" height=45>
-    </picture><br/>
+    </picture>
     <h6 align="center">
       <a href="https://discord.gg/K4gFUPTA7B">Discord</a>
       &nbsp;·&nbsp;
@@ -12,7 +12,6 @@
       &nbsp;·&nbsp;
       <a href="https://bento.me/ocm">Bento</a>
     </h6>
-    <img src="https://github.com/OCMusic/.github/assets/107028394/a3e288f3-97f5-4986-9082-7fedc21cd938" width="0px" height="30px"/>
     </h3>
     <p>We are a Roblox group implementing custom music to UGC based games like Obby Creator which otherwise may have stayed silent. Before our group was falsely terminated, we had over 50k group members and over 10k audios. </p>
 </div>
