@@ -1,3 +1,8 @@
+# Obby Creator Music is now discontinued and has reached end of life nearly a year ago.
+# Contents of what is left will still be up, but the idea of reviving OCMusic will forever be a fever dream. Keep on meat riding Obby Creator smh.
+
+---
+
 <div align="center">
     <h3>
     <img src="https://raw.githubusercontent.com/OCMusic/.github/main/assets/icon.svg" width="100px" alt="Logo"/><br/>
