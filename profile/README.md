@@ -1,5 +1,4 @@
-# Obby Creator Music is now discontinued and has reached end of life nearly a year ago.
-# Contents of what is left will still be up, but the idea of reviving OCMusic will forever be a fever dream. Keep on meat riding Obby Creator smh.
+# Obby Creator Music is now discontinued and has reached end of life nearly a year ago. Contents of what is left will still be up, but the idea of reviving OCMusic will forever be a fever dream. Keep on meat riding Obby Creator smh.
 
 ---
 
